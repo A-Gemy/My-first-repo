@@ -1,3 +1,3 @@
-# My-first-repo this is a minor update
+# My-first-repo
 
 prfdtice account for learning git
